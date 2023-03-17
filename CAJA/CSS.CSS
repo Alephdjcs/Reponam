@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    color:black;
+}
+
+.caja{
+    padding: 8px;
+    margin: 264px;
+    border-style: solid;
+    background-color: aqua;
+    border-left: 6px solid cadetblue;
+    border-radius: 6px;
+    height: 100px;
+    width: 100px;
+    color:#5757;
+    
+}
