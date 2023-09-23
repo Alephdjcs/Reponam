@@ -4,7 +4,9 @@
 # https://aka.ms/yaml
 
 trigger:
-- main
+  tags:
+    include:
+    - refs/tags/MyTest
 
 pool:
   vmImage: ubuntu-latest
